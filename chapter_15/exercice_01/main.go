@@ -9,5 +9,5 @@ import "fmt"
 
 func main() {
 	x := 10
-	fmt.Printf(&x)
+	fmt.Printf("%p\n", &x)
 }
