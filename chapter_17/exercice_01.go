@@ -6,8 +6,8 @@ https://play.golang.org/p/U0jea43X55
 package main
 
 import (
-	"fmt",
 	"encoding/json"
+	"fmt"
 )
 
 type user struct {
